@@ -1,0 +1,17 @@
+= Aplicación web
+
+* Angel Mena Coudin
+* C34789
+
+== Manual de uso
+
+=== Dependencias
+
+Instalar Flask para poder correr correctamente el programa
+****
+pip install Flask
+****
+
+== Referencia
+
+* J2logo. (2022, January 16). Tutorial de Flask en español: Desarrollando una aplicación web en Python. J2LOGO. https://j2logo.com/tutorial-flask-espanol/
