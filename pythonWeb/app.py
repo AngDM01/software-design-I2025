@@ -13,4 +13,3 @@ def show_student_info():
 # Corre el servidor localmente con el debugger activado
 if __name__ == '__main__':
   app.run(debug=True)
-  
