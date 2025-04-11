@@ -5,6 +5,10 @@
 
 == Manual de uso
 
+La aplicación levanta un server local gracias a Flask, para acceder a la pagina se debe escibir en la barra de navegación de cualquier navegador: `http://127.0.0.1:5000`
+
+Para visualizar bootstrap es necesario una conexión a internet, debido a que se utiliza bootstrap por medio de un CDNs.
+
 === Dependencias
 
 Instalar Flask para poder correr correctamente el programa
